@@ -1,4 +1,4 @@
-# TurboForge 🌬️⚡
+# TurboForge 
 **Generative AI Digital Twin for Wind Farm Failure Prediction**
 
 > 88% accuracy on 6-hour-ahead failure prediction | 32% improvement in turbine coordination
