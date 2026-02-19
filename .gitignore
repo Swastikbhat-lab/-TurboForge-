@@ -1,0 +1,6 @@
+__pycache__/ 
+*.pyc 
+*.csv 
+*.pt 
+scada_data.csv 
+scada_real.csv 
